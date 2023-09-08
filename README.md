@@ -1,2 +1,2 @@
-# Image1_task
+# Image_tasks
 This is an image processing Task
